@@ -1,1 +1,1 @@
-i work at the intersection of research and engineering, mostly doing RL, post-training, and robotics.
+19, i work at the intersection of research and engineering, mostly doing RL, post-training, and robotics.
